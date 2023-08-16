@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+main.cpp
+*DS_Store
+*vscode
+input.txt
+output.txt
